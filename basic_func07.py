@@ -4,4 +4,4 @@
 
 # Return the value a.
 def main(a):
-    return "a"
+    return a
